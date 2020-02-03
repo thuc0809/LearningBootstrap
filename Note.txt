@@ -3,5 +3,5 @@ Grid Class:
 	.col- : screen width less than 576px.
 	.col-sm: screen width equal to or greater than 576px.
 	.col-md: screen width equal to or greater than 768px.
-	.col-lg: screen width equal to or greater than 992pxpx.
+	.col-lg: screen width equal to or greater than 992px.
 	.col-xl: screen width equal to or greater than 1200px.
